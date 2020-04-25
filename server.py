@@ -14,6 +14,11 @@ if not os.path.exists('./img'):
     os.makedirs('./img')
 
 
+@app.route("/")
+def home():
+    return "home"
+
+
 @app.route("/file1", methods=['POST'])
 def save_file1():
     if 'file' not in request.files:
