@@ -1,0 +1,6 @@
+Flask==1.1.2
+Werkzeug==1.0.1
+cmake==3.17.1
+dlib==19.8.1
+imutils==0.5.3
+opencv-python==4.2.0.34
