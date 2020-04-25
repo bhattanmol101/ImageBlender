@@ -1,2 +1,2 @@
-# ImageBlender
-This is an app for blending faces
+# ImageBlender Backend
+This has the backend logic for blending faces application
